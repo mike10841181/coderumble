@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-Coderumble::Application.config.secret_token = 'b0193d0056865cf56090a5c4a290870b0be11dd524976cdf4b1de11eba97c2f5a951f53ff24d4ce1ffff290a8f76c46b120f7b6e46ee2576524c79580da42e75'
+Coderumble::Application.config.secret_token = 'a0d9ac4446e4770d09f5cdc723294b49ff68dc3a4365a24f801c5e8beb20a310a78719103ed34f2bbc677ead6035c759f893909037904aeb9388fe414c566c96'
